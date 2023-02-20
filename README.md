@@ -10,7 +10,7 @@ package main
 import (
     "log"
 
-    tls "github.com/Carcraftz/utls"
+    tls "github.com/refraction-networking/utls"
     "github.com/Carcraftz/cclient"
 )
 
